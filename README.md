@@ -1,3 +1,4 @@
+
 # Manual-prueba
 Manual de Git de 2DAW
 
@@ -16,4 +17,4 @@ Git ignore
 Recuperar repositorio
 
 MarckDown
-ESTE ES EL CAMBIO
+ESTE ES EL CAMBIO2
