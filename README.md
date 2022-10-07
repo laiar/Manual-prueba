@@ -1,6 +1,6 @@
 
 # Manual-prueba
-Manual de Git de 2DAW2223
+Manual de Git de 2DAW2223- EL ACTUALIZADO!!!!!
 
 En este manual se ncuentran los siguientes temas:
 
