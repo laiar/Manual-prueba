@@ -17,3 +17,4 @@ Git ignore
 Recuperar repositorio
 
 MarckDown
+Actualizado antes del push
