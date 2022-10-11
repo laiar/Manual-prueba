@@ -17,4 +17,3 @@ Git ignore
 Recuperar repositorio
 
 MarckDown
-ESTE ES EL CAMBIO2
